@@ -10,7 +10,6 @@ framework. This project is ***GPL v3.0 licensed***.
 
 - [Installation](#installation)
 - [Running application](#running)
-- [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -96,8 +95,6 @@ $ npm run serve
 - **Step 3**
     - 🔃 Create a new pull request using 
     <a href="https://github.com/vsgobbi/pycdbinvest/compare/" target="_blank">`https://github.com/vsgobbi/pycdbinvest/compare`</a>
-
-### Runnign Tests:
 
 ## License
 
