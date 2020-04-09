@@ -1,0 +1,26 @@
+# PyCharm files and python cached files
+.idea/*
+__pycache__/*
+*.pyc
+
+# Local env files
+.env.local
+.env.*.local
+
+# Virtual envs
+env/*
+venv/*
+
+# Serverless compiled files
+.serverless/*
+
+# Installed requirements
+node_modules/*
+*/node_modules/
+
+# Config files
+config/*
+.DS_Store
+node_modules
+/dist
+
