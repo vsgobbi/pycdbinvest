@@ -13,11 +13,6 @@ const routes = [
     component: Home
   },
   {
-    path: "/",
-    name: "History",
-    component: History
-  },
-  {
     path: "/api/v1",
     name: "Teste",
     component: Teste
