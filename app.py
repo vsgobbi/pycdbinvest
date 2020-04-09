@@ -54,9 +54,9 @@ def get():
 
     if not queryStringDtDate:
         return ApiMessages.successMessage(
+            "message",
             "Use query string 'dtDate' filter to get data. "
             "For example: dtDate=2019-04-29.",
-            "message"
         )
 
     if not ApiValidators.isDateISO8601(queryStringDtDate):
