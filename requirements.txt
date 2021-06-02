@@ -5,5 +5,5 @@ Flask==1.1.2
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 s3transfer==0.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 awscli==1.18.38
